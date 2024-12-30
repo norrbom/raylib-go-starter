@@ -17,3 +17,7 @@ Update the Path environment variable to point to the w64devkit bin directory, ty
 go get -v -u github.com/gen2brain/raylib-go/raylib
 
 The initial build might take a few minutes
+
+## Build and run
+
+
